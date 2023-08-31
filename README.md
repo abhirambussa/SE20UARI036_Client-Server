@@ -19,7 +19,8 @@ Then, in a separate terminal window, start the client by running the following c
 
 `python client.py`
 
-![Screenshot 2023-08-31 192748](https://github.com/revanthjavvaji/SE20UARI071/assets/114976742/f67989c7-090d-4ccf-bfa9-7d1a93d3f943)
+<img width="499" alt="Screenshot 2023-08-31 at 9 12 41 PM" src="https://github.com/abhirambussa/SE20UARI036_Client-Server/assets/121299178/5a5784d2-affc-4490-960f-77b47c51c937">
+
 
 The client will send a message to the server. The server will print the message to the console.
 
