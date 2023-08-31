@@ -1,5 +1,5 @@
 # Client-Server   Assignment
-### SE20UARI071
+### SE20UARI036
 
 ## Client-Server Message Exchange
 This repository contains a simple Python program that allows you to send and receive messages between a client and server system.
