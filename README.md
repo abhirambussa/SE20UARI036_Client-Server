@@ -34,7 +34,7 @@ The server will print the following message to the console:
 
 Received message: Hello from the client!
 
- ![Screenshot 2023-08-31 192830](https://github.com/revanthjavvaji/SE20UARI071/assets/114976742/0acff6c0-7024-4b2f-a65a-b60e67e6c391)
+<img width="543" alt="Screenshot 2023-08-31 at 9 17 43 PM" src="https://github.com/abhirambussa/SE20UARI036_Client-Server/assets/121299178/b28d1546-ac77-4eb9-baa9-3c0eed25e368">
 
 ## Dependencies
 
